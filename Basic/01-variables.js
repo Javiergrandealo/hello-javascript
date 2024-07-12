@@ -25,6 +25,6 @@ console.log(helloWorld2)
 const helloWorld3 = "¡Hola, JavaScript 3!"
 console.log(helloWorld3)
 
-// Error
-// helloWorld3 = "¡Hola de nuevo, JavaScript 2!"
+// Error: no puedes reasignar el valor de una constante
+// helloWorld3 = "¡Hola de nuevo, JavaScript 3!"
 // console.log(helloWorld3)
