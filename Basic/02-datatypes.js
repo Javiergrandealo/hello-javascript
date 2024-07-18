@@ -19,7 +19,7 @@ let height = 1.77 // Decimal
 let isTeacher = true
 let isStudent = false
 
-// Undefined
+// Undefined (aun no tiene ningun valor asociado)
 let undefinedValue
 console.log(undefinedValue)
 
@@ -30,12 +30,13 @@ let nullValue = null
 
 let mySymbol = Symbol("mysymbol")
 
-// BigInt
+// BigInt (para cuando un numero ocupa más de 64 bits)
 
-let myBigInt = BigInt(817239871289371986589716389471628379612983761289376129)
-let myBigInt2 = 817239871289371986589716389471628379612983761289376129n
+let myBigInt = BigInt(817239871289371986589716389471628379612983761289376129) //se puede crear como un objeto
+let myBigInt2 = 817239871289371986589716389471628379612983761289376129n //o poniendo el numero con una n al final
 
 // Mostramos los tipos de datos
+//Con la palabra reservada typeof var nos indica el tipo de variabale que es var
 console.log(typeof myName)
 console.log(typeof alias)
 console.log(typeof email)
