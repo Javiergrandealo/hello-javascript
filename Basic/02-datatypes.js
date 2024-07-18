@@ -49,7 +49,7 @@ console.log(typeof isStudent)
 
 console.log(typeof undefinedValue)
 
-console.log(typeof nullValue)
+console.log(typeof nullValue) //esto devuelve objeto Object (es un objeto pero aun no se le ha dado valor)
 
 console.log(typeof mySymbol)
 
