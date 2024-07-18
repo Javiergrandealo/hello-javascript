@@ -5,6 +5,16 @@ https://www.twitch.tv/videos/2200149072?t=00h08m02s
 */
 
 // 1. Crea una variable para cada operación aritmética
+let a = 2
+let b = 5
+let suma = a+b
+let resta = a-b
+let Multiplicación = a*b
+let División = a/b
+let potencia = a**b
+let modulo = a%b
+a++
+b--
 
 // 2. Crea una variable para cada tipo de operación de asignación,
 //    que haga uso de las variables utilizadas para las operaciones aritméticas
