@@ -8,7 +8,7 @@ https://www.twitch.tv/videos/2200149072?t=00h08m02s
 
 // Concatenación
 
-let myName = "Brais"
+let myName = "Javier"
 let greeting = "Hola, " + myName + "!"
 console.log(greeting)
 console.log(typeof greeting)
