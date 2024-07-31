@@ -27,13 +27,13 @@ console.log(greeting[11])
 console.log(greeting.toUpperCase()) // Mayúsculas
 console.log(greeting.toLowerCase()) // Minúsculas
 console.log(greeting.indexOf("Hola")) // Índice
-console.log(greeting.indexOf("Brais"))
-console.log(greeting.indexOf("MoureDev"))
+console.log(greeting.indexOf("Javier"))
+console.log(greeting.indexOf("MoureDev")) //da -1 pq no existe
 console.log(greeting.includes("Hola")) // Incluye
-console.log(greeting.includes("Brais"))
+console.log(greeting.includes("Javier"))
 console.log(greeting.includes("MoureDev"))
 console.log(greeting.slice(0, 10)) // Sección
-console.log(greeting.replace("Brais", "MoureDev")) // Reemplazo
+console.log(greeting.replace("Javier", "Chaby")) // Reemplazo
 
 // Template literals (plantillas literales)
 
