@@ -69,4 +69,4 @@ const simbolo2 = Symbol("Simbolo 2 baby")
 
 //va a dar error es q ni lo hago, habria q comentar todo
 
-// 10. Comenta las líneas que produzcan algún tipo de error al ejecutarser
+// 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse

@@ -11,8 +11,8 @@
 
 ## Próxima clase
 
-### Miércoles 31 de julio a las 20:00h (España) en directo desde [Twitch](https://twitch.tv/mouredev)
-#### Puedes crear un recordatorio y consultar el horario en tu país desde [Discord](https://discord.gg/mouredev?event=1265768501356794037)
+### Jueves 15 de agosto a las 20:00h (España) en directo desde [Twitch](https://twitch.tv/mouredev)
+#### Puedes crear un recordatorio y consultar el horario en tu país desde [Discord](https://discord.gg/mouredev?event=1270839532920770822)
 
 ## Clases en vídeo
 
@@ -42,6 +42,27 @@ Código:
 * [09 - Ejercicios: Condicionales](./Basic/09-conditionals-exercises.js)
 * [10 - Array](./Basic/10-array.js)
 * [11 - Set](./Basic/11-set.js)
+
+#### [CLASE 4 | 31/07/2024 | Mapas, bucles y funciones](https://www.twitch.tv/videos/2212289583?t=00h17m45s)
+
+Código:
+
+* [12 - Map](./Basic/12-map.js)
+* [13 - Ejercicios: Estructuras](./Basic/13-structures-exercises.js)
+* [14 - Bucles](./Basic/14-loops.js)
+* [15 - Ejercicios: Bucles](./Basic/15-loops-exercises.js)
+* [16 - Funciones](./Basic/16-functions.js)
+* [17 - Ejercicios: Funciones](./Basic/17-functions-exercises.js)
+
+#### [CLASE 5 | 07/08/2024 | Objetos, desestructuración, propagación y clases](https://www.twitch.tv/videos/2218300512?t=00h17m10s)
+
+Código:
+
+* [18 - Objetos](./Basic/18-objects.js)
+* [19 - Ejercicios: Objetos](./Basic/19-objects-exercises.js)
+* [20 - Desestructuración y propagación](./Basic/20-destructuring-spreading.js)
+* [21 - Ejercicios: Desestructuración y propagación](./Basic/21-destructuring-spreading-exercises.js)
+* [22 - Clases](./Basic/22-classes.js)
 
 ## Enlaces de interés
 
